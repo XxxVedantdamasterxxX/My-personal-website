@@ -99,3 +99,37 @@ p {
     font-family: cursive;
     font-size: 20px;
 }
+
+.links:hover {
+    background-color: chartreuse;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+a {
+    text-decoration: none;
+}
+
+.article:hover {
+    color: aquamarine;
+}
+#writings a{
+    text-shadow: none !important;
+    text-decoration:underline !important;
+    color:fuchsia !important;
+}
+#contact{
+    background: firebrick;
+}
+#contact iframe{
+    width 100%;
+}
+.contact_1 h3{
+    display:inline;
+}
+.contact_1 a{
+    color:white;
+    text-shadow: none;
+}
